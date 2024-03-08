@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  border: 0;
+  padding: 0;
+  color: white;
+}
+.show {
+  height: 60px;
+  text-decoration: none;
+}
+.main {
+  color: #f08804;
+  font-size: 35px;
+}
+button {
+  background-color: #f08804;
+}
+a {
+  margin-right: 200px;
+  text-decoration: none;
+}
+body {
+  background-image: url("lion.jpg");
+  background-size: cover;
+}
+.men {
+  text-decoration: none;
+}
+
+
