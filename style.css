@@ -14,9 +14,10 @@
 }
 button {
   background-color: #f08804;
+  height: 20px;
 }
 a {
-  margin-right: 200px;
+  margin-right: 150px;
   text-decoration: none;
 }
 body {
@@ -26,5 +27,30 @@ body {
 .men {
   text-decoration: none;
 }
-
-
+input {
+  color: black;
+  height: 20px;
+  margin: 25px;
+}
+.fun {
+  background-color: rgb(37, 25, 25);
+  font-size: 20px;
+}
+nav {
+  padding: 5px;
+}
+.sub {
+  margin-right: calc();
+}
+.foot {
+  text-align: center;
+  background-color: blueviolet;
+  height: 30px;
+  font-size: 20px;
+}
+#tet {
+  background-color: #f08804;
+  font-size: 20px;
+  padding-left: 100px;
+  
+}
